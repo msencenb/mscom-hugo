@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Matt Sencenbaugh</title>
+    <link>https://mattsencenbaugh.com/</link>
+    <description>Recent content on Matt Sencenbaugh</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://mattsencenbaugh.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Still Alice</title>
+      <link>https://mattsencenbaugh.com/still-alice/</link>
+      <pubDate>Sun, 01 Jan 2023 18:02:13 -0800</pubDate>
+      
+      <guid>https://mattsencenbaugh.com/still-alice/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
