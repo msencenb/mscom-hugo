@@ -1,8 +1,9 @@
 ---
 title: "The Year I Discovered My Life is More Important Than My Startup"
 date: "2014-09-24"
-draft: true
 categories: 
+  - "startups"
+tags:
   - "startups"
   - "traveling"
 ---

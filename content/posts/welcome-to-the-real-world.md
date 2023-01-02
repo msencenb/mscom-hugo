@@ -1,6 +1,7 @@
 ---
 title: "Welcome To The Real World"
 date: "2014-06-24"
+draft: true
 categories:
   - "startups"
 tags:
