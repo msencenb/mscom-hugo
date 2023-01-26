@@ -4,7 +4,7 @@ date: 2023-01-26T11:22:41-08:00
 draft: false
 ---
 
-# TDD Tip: Invert your assertion
+# TDD Tip Invert your assertion
 
 One top tip I picked up years ago from a co-worker was to invert your assertions when you are in the midst of your TDD cycles. 
 
