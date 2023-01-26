@@ -1,10 +1,14 @@
 ---
-title: "Invert_tdd"
-date: 2023-01-26T11:22:41-08:00
-draft: false
+title: "Invert your assertions"
+date: "2023-01-26"
+categories:
+    - "software engineering"
+tags:
+    - "TDD"
+    - "software engineering"
 ---
 
-# TDD Tip Invert your assertion
+# TDD Tip: Invert your assertion
 
 One top tip I picked up years ago from a co-worker was to invert your assertions when you are in the midst of your TDD cycles. 
 
