@@ -1,4 +1,13 @@
-# Founder-led sales: Embrace your competition
+---
+title: "Founder-led sales: Embrace your competition"
+date: "2023-10-10"
+categories: 
+  - "startups"
+tags:
+  - "career development"
+---
+
+## Founder-led sales: Embrace your competition
 
 In the early days of learning about selling software—to get WrestlingIQ off the ground—I was nervous. I was afraid I needed to put on some sort of tough sales persona that convinced wrestling teams they needed to switch.
 
